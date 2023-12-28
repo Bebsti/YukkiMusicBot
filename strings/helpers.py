@@ -36,7 +36,9 @@ Auth Users can use admin commands without admin rights in your chat.
 
 /auth [Username] - Add a user to AUTH LIST of the group.
 /unauth [Username] - Remove a user from AUTH LIST of the group.
-/authusers - Check AUTH LIST of the group."""
+/authusers - Check AUTH LIST of the group.
+
+**🎾 signature98**"""
 
 
 HELP_2 = """✅<u>**Play Commands:**</u>
@@ -59,7 +61,9 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 ✅**<u>Bot's Server Playlists:</u>**
 /playlist  - Check Your Saved Playlist On Servers.
 /deleteplaylist - Delete any saved music in your playlist
-/play  - Start playing Your Saved Playlist from Servers."""
+/play  - Start playing Your Saved Playlist from Servers.
+
+**🎾 signature98**"""
 
 
 HELP_3 = """✅<u>**Bot Commands:**</u>
@@ -76,7 +80,9 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 **c** stands for channel play.
 
-/queue or /cqueue- Check Queue List of Music."""
+/queue or /cqueue- Check Queue List of Music.
+
+**🎾 signature98**"""
 
 HELP_4 = """✅<u>**Extra  Commands:**</u>
 /start - Start the Music Bot.
@@ -108,7 +114,9 @@ HELP_4 = """✅<u>**Extra  Commands:**</u>
 
 2️⃣ **Admin Commands** [Everyone or Admins] - If everyone, anyone present in you group will be able to use admin commands(like /skip, /stop etc)
 
-3️⃣ **Play Type** [Everyone or Admins] - If admins, only admins present in group can play music on voice chat."""
+3️⃣ **Play Type** [Everyone or Admins] - If admins, only admins present in group can play music on voice chat.
+
+**🎾 signature98** """
 
 HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /addsudo [Username or Reply to a user]
@@ -172,4 +180,4 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 
 **Example:** `/broadcast -user -assistant -pin Hello Testing`
 
-"""
+**🎾 signature98** """
